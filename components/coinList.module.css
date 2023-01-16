@@ -1,0 +1,18 @@
+.child_container {
+  box-shadow: rgba(100, 100, 111, 0.2) 0rem 0.4375rem 1.8125rem 0rem;
+  border-radius: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  max-width: 13rem;
+  margin: 0 auto;
+  justify-content: center;
+  width: 100%;
+  background-color: rgb(250, 250, 250);
+}
+
+.parent_container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  width: 100%;
+}
